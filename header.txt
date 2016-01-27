@@ -1,7 +1,4 @@
 # IPsum Threat Intelligence Feed
 # https://github.com/stamparm/ipsum
 #
-# For public use only.
-# The IPsum feed may not be used for commercial resale or in products that are charging fees for such services.
-# Use of these feed for commercical (paid service) use is strictly prohibited.
-#
+# License: Public domain (https://creativecommons.org/licenses/publicdomain/).
