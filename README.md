@@ -1,2 +1,1 @@
-# ipsum
-Threat Intelligence Feed
+# IPsum
