@@ -4,4 +4,4 @@
 
 **IPsum** is a Threat Intelligence Feed based on 30+ different publicly available lists of suspicious and/or malicious IP addresses. All lists are automatically retrieved and parsed on a daily (24h) basis and the final result is pushed to this repository. List is made of IP addresses together with a total number of occurrence (for each). Greater the number, lesser the chance of false positive detection in (inbound) monitored traffic. Also, to make it easier for eventual (autoban) usage, list is sorted from most (problematic) to least occurent IP addresses.
 
-Fresh list is available [here](https://raw.githubusercontent.com/stamparm/ipsum/master/list.csv).
+Fresh list can be found [here](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt).
