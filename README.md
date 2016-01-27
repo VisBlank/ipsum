@@ -10,11 +10,11 @@ As an example, to get a fresh and ready-to-deploy auto-ban list of "bad IPs" tha
 curl --compressed https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt 2>/dev/null | grep -v "#" | grep -v -E "\s[1-2]$" | cut -f 1
 ```
 
-If you want to use it with iptables/ipset, you can do the following:
+If you want to try it with `ipset`, you can do the following:
 
 ```
 sudo su
-apt-get install iptables ipset
+apt-get -qq install iptables ipset
 ipset -q flush ipsum
 ipset -q create ipsum hash:net
 for ip in $(curl --compressed https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt 2>/dev/null | grep -v "#" | grep -v -E "\s[1-2]$" | cut -f 1); do ipset add ipsum $ip; done
