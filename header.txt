@@ -1,5 +1,3 @@
 # IPsum Threat Intelligence Feed
-# https://github.com/stamparm/ipsum
-#
-# License: Public domain (https://creativecommons.org/licenses/publicdomain/)
+# (https://github.com/stamparm/ipsum)
 #
