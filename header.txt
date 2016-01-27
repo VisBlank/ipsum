@@ -1,6 +1,5 @@
 # IPsum Threat Intelligence Feed
 # https://github.com/stamparm/ipsum
 #
-# License: Public domain (https://creativecommons.org/licenses/publicdomain/).
+# License: Public domain (https://creativecommons.org/licenses/publicdomain/)
 #
-# IP,number of suspicious/malicious list occurrences
