@@ -26,7 +26,7 @@ iptables -I INPUT -m set --match-set ipsum src -j DROP
 
 In directory [levels](levels) you can find preprocessed raw IP lists based on number of blacklist occurrences (e.g. [levels/3.txt](levels/3.txt) holds IP addresses that can be found on 3 or more blacklists).
 
-Wall of shame (2017-02-07)
+Wall of shame (2017-02-08)
 ----
 
 |IP|Number of (black)lists|
@@ -34,12 +34,21 @@ Wall of shame (2017-02-07)
 109.163.234.7|9
 171.25.193.77|9
 119.249.54.71|8
-193.201.224.199|8
+110.167.224.182|8
+183.129.255.34|8
+51.15.57.90|8
 123.31.34.18|8
-221.204.224.54|8
-185.40.4.23|8
+191.96.249.48|8
+193.201.224.210|8
+218.2.108.2|8
+113.122.44.252|8
+193.201.224.39|8
 185.159.36.10|8
 151.80.42.102|8
 118.192.177.68|8
-60.191.38.77|8
+176.123.27.28|8
+82.163.125.70|8
+91.197.235.12|8
 185.110.132.202|8
+93.103.179.52|8
+181.57.149.131|8
