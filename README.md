@@ -28,21 +28,22 @@ In directory [levels](levels) you can find preprocessed raw IP lists based on nu
 
 **Important:** If you are planning to use `git` to get the content of this repository do it like `git clone --depth 1 https://github.com/stamparm/ipsum.git`
 
-Wall of shame (2017-06-23)
+Wall of shame (2017-06-24)
 ----
 
 |IP|Number of (black)lists|
 |---|--:|
-89.234.157.254|9
-78.109.23.1|9
-163.172.136.101|8
-104.223.123.98|8
+89.234.157.254|8
 180.128.21.46|8
-109.163.234.2|8
-162.213.3.221|8
+51.255.202.66|8
 171.25.193.77|8
 111.40.166.130|8
+193.15.16.4|8
+193.70.95.180|8
 80.82.77.139|8
+71.6.146.185|8
 185.174.190.132|8
-192.42.116.16|8
-176.126.252.11|8
+199.87.154.255|8
+163.172.67.180|8
+62.210.105.116|8
+79.124.59.202|8
