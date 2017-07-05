@@ -28,7 +28,7 @@ In directory [levels](levels) you can find preprocessed raw IP lists based on nu
 
 **Important:** If you are planning to use `git` to get the content of this repository do it like `git clone --depth 1 https://github.com/stamparm/ipsum.git`
 
-Wall of shame ($(date +'%Y-%m-%d'))
+Wall of shame (2017-07-05)
 ----
 
 |IP|DNS lookup|Number of (black)lists|
