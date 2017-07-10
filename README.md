@@ -28,39 +28,34 @@ In directory [levels](levels) you can find preprocessed raw IP lists based on nu
 
 **Important:** If you are planning to use `git` to get the content of this repository do it like `git clone --depth 1 https://github.com/stamparm/ipsum.git`
 
-Wall of shame (2017-07-09)
+Wall of shame (2017-07-10)
 ----
 
 |IP|DNS lookup|Number of (black)lists|
 |---|---|--:|
-176.10.104.240|tor1e1.digitale-gesellschaft.ch|9
-199.87.154.255|tor.les.net|9
+89.234.157.254|marylou.nos-oignons.net|9
+212.21.66.6|tor-exit-4.all.de|9
 71.6.146.185|pirate.census.shodan.io|9
-193.15.16.4|-|9
-163.172.67.180|tor-exit-readme.memcpy.io|9
-62.210.105.116|62-210-105-116.rev.poneytelecom.eu|9
-94.142.242.84|tor-exit-1.zenger.nl|8
-207.244.70.35|-|8
+84.19.181.25|tor-exit2.signal.center|8
+176.10.104.240|tor1e1.digitale-gesellschaft.ch|8
+218.2.197.240|-|8
+171.25.193.131|tor-exit7-readme.dfri.se|8
 80.82.77.139|dojo.census.shodan.io|8
-164.132.51.91|91.ip-164-132-51.eu|8
-89.234.157.254|marylou.nos-oignons.net|8
-94.242.246.24|orion.enn.lu|8
-97.74.237.196|ip-97-74-237-196.ip.secureserver.net|8
-104.223.123.98|unassigned.quadranet.com|8
-64.113.32.29|tor.t-3.net|8
+80.67.172.162|algrothendieck.globenet.org|8
+216.218.222.12|-|8
 162.213.3.221|tor-exit1.sjc02.svwh.net|8
 171.25.193.77|tor-exit1-readme.dfri.se|8
 171.25.193.78|tor-exit4-readme.dfri.se|8
-18.85.22.204|wholesomeserver.media.mit.edu|8
-212.21.66.6|tor-exit-4.all.de|8
+199.87.154.255|tor.les.net|8
 121.14.7.244|-|8
 89.248.167.131|mason.census.shodan.io|8
-192.160.102.169|manipogo.relay.coldhak.com|8
 222.47.26.140|-|8
+192.160.102.170|ogopogo.relay.coldhak.com|8
 222.47.26.139|-|8
-198.96.155.3|exit.tor.uwaterloo.ca|8
+149.56.223.241|exit0.liskov.tor-relays.net|8
 192.42.116.16|tor-exit.hartvoorinternetvrijheid.nl|8
-185.38.14.171|tor-exit.r2.apx.pub|8
+166.70.207.2|this.is.a.tor.node.xmission.com|8
+5.254.79.66|lh31139.voxility.net|8
+66.70.217.179|tor.cusse.org|8
+62.210.105.116|62-210-105-116.rev.poneytelecom.eu|8
 193.90.12.90|freebogatov-5.multisec.no|8
-111.121.192.6|-|8
-62.210.37.82|62-210-37-82.rev.poneytelecom.eu|8
